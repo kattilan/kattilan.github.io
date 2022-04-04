@@ -1,1 +1,13 @@
-
+body {
+  background-color: Ivory;
+  color: Gray;
+}
+h1 {
+  font-size: 20px;
+}
+p {
+  font-size: 16px;
+  color: DarkBlue;
+  background-color: Lavender;
+}
+  
