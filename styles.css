@@ -16,3 +16,7 @@ ol {
 ul {
   list-style-type:square;
 }
+div {
+  border-style:dotted;
+  border-width:2 px;
+}
