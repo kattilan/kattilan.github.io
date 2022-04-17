@@ -11,5 +11,8 @@ p {
   background-color:Lavender;
 }
 ol {
-  list-style-type: upper-alpha;
+  list-style-type:upper-alpha;
+}
+ul {
+  list-style-type:square;
 }
