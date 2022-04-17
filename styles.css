@@ -3,10 +3,13 @@ body {
   color:Gray;
 }
 h1 {
-  font-size: 20px;
+  font-size: 35px;
 }
 p {
   font-size: 16px;
   color:DarkBlue;
   background-color:Lavender;
+}
+ol.a {
+  list-style-type: upper-alpha;
 }
