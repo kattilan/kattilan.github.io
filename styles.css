@@ -1,6 +1,31 @@
+a {
+  background-color:yellow;
+  border:2px solid blue;
+  border-radius:5px;
+}
+article {
+  background-color:black;
+}
+aside {
+   background-color:yellow;
+}
 body {
   background-color:Ivory;
   color:Gray;
+}
+div {
+  border-style:dotted;
+  border-width:2px;
+  padding:10px;
+}
+#first {
+  background-color:violet;
+}
+footer {
+  background-color:purple;
+}
+header {
+  backgroun-color:brown;
 }
 h1 {
   font-size: 35px;
@@ -9,32 +34,25 @@ h1 {
 h2 {
   border-style:dashed;
 }
+nav {
+  background-color:grey;
+}
+ol {
+  list-style-type:upper-alpha;
+}
 p {
   font-size: 16px;
   color:DarkBlue;
   background-color:Lavender;
   margin-right:40px;
 }
-ol {
-  list-style-type:upper-alpha;
-}
-ul {
-  list-style-type:square;
-}
-div {
-  border-style:dotted;
-  border-width:2px;
-  padding:10px;
-}
 .profile {
   width:200px;
   height:200px;
 }
-#first {
-  background-color:violet;
+section {
+  background-color:green;
 }
-a {
-  background-color:yellow;
-  border:2px solid blue;
-  border-radius:5px;
+ul {
+  list-style-type:square;
 }
