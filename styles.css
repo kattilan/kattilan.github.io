@@ -6,6 +6,9 @@ h1 {
   font-size: 35px;
   border-style:double;
 }
+h2 {
+  border-style:dashed;
+}
 p {
   font-size: 16px;
   color:DarkBlue;
