@@ -31,3 +31,8 @@ div {
 #first {
   background-color:violet;
 }
+a {
+  background-color:yellow;
+  border:2px solid red;
+  border-radius:5px;
+}
