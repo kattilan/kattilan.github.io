@@ -4,6 +4,7 @@ body {
 }
 h1 {
   font-size: 35px;
+  border-style:double;
 }
 p {
   font-size: 16px;
