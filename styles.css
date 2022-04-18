@@ -23,6 +23,7 @@ ul {
 div {
   border-style:dotted;
   border-width:2px;
+  padding:20px;
 }
 .profile {
   width:200px;
