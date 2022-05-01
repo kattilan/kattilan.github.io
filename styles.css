@@ -21,11 +21,6 @@ body {
   max-width:960px;
   display:block;
 }
-div {
-  border-style:dotted;
-  border-width:2px;
-  padding:10px;
-}
 #first {
   background-color:violet;
 }
