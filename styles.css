@@ -46,7 +46,7 @@ nav {
   background-color:grey;
 }
 ol {
-  list-style-type:upper-alpha;
+  list-style-type:none;
 }
 p {
   font-size: 16px;
