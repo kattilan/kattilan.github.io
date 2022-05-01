@@ -53,6 +53,10 @@ p {
   margin-right:40px;
   padding:10px;
 }
+#photo {
+  display:block;
+  float:right;
+}
 .profile {
   width:940px;
   height:200px;
