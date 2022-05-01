@@ -34,11 +34,9 @@ header {
 h1 {
   font-size: 35px;
   border-style:double;
-  padding:10px;
 }
 h2 {
   border-style:dashed;
-  padding:10px;
 }
 nav {
   background-color:grey;
