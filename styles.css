@@ -7,10 +7,9 @@ article {
   background-color:black;
 }
 aside {
-   background-color:yellow;
+  background-color:yellow;
   float:right;
   width:30%;
-  display:block;
 }
 body {
   background-color:Ivory;
