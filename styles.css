@@ -13,6 +13,10 @@ body {
   background-color:Ivory;
   color:Gray;
 }
+.container {
+  margin:auto;
+  max-width:960px;
+}
 div {
   border-style:dotted;
   border-width:2px;
@@ -30,9 +34,11 @@ header {
 h1 {
   font-size: 35px;
   border-style:double;
+  padding:10px;
 }
 h2 {
   border-style:dashed;
+  padding:10px;
 }
 nav {
   background-color:grey;
