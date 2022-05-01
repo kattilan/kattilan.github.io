@@ -66,6 +66,7 @@ p {
 }
 section {
   background-color:green;
+  width:70%;
 }
 ul {
   list-style-type:square;
