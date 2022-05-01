@@ -38,6 +38,10 @@ h2 {
   border-style:dashed;
   padding:10px;
 }
+h3 {
+  border-style:solid;
+  padding:10px;
+}
 nav {
   background-color:grey;
 }
