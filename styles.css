@@ -57,7 +57,6 @@ p {
   display:block;
   float:right;
   border:7px solid grey;
-  border-style:double;
 }
 .profile {
   width:940px;
